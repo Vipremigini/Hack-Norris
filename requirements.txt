@@ -1,6 +1,2 @@
 flask
-python-dotenv
-gunicorn
-cohere
-openai
 flask_api
