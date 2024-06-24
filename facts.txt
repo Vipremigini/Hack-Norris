@@ -34,4 +34,4 @@ Hack Clubbers built the language they code in.
 Hack Clubbers once used wrong sytax in Java. It is now the latest release of Java.
 Orpheus starred in Star Wars. She was the force.
 Bigfoot claims he once saw Orpheus.
-Hack Clubbers mines bitcoin in binary.
+Hack Clubbers mine bitcoin in binary.
