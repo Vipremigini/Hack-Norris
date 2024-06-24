@@ -4,6 +4,8 @@ import random
 f = open("facts.txt","r")
 lines = f.readlines()
 
+app = Flask(__name__)
+
 @app.post("/api/try")
 def trial():
     leng = len(lines)
